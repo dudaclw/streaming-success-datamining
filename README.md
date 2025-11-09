@@ -36,7 +36,7 @@ streaming-success-datamining/
 │   ├── generator.py  # Criação dos novos títulos (3 filmes + 3 séries)
 │   └── utils.py      # Funções auxiliares (leitura, salvamento, logs etc.)
 │
-├── reports/          # Relatórios finais (DOCX/PDF) - opcional
+├── reports/          # Relatórios finais 
 │   └── ...
 │
 ├── requirements.txt  # Dependências do projeto
