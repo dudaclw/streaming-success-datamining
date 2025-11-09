@@ -1,4 +1,4 @@
-[README_streaming-success-datamining.md](https://github.com/user-attachments/files/23443106/README_streaming-success-datamining.md)
+
 # streaming-success-datamining
 
 Projeto de Data Mining aplicado a catálogos de plataformas de streaming (Netflix, Disney+ e Amazon Prime Video).
