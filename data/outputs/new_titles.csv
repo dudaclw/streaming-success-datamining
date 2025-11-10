@@ -1,0 +1,7 @@
+plataforma,tipo,nome,genero,sinopse_curta,rating,sucesso
+Netflix,Filme,NOME FILME NETFLIX,Drama,Sinopse curta do filme da Netflix...,TV-MA,92.5
+Netflix,Série,NOME SÉRIE NETFLIX,"Crime, Drama",Sinopse curta da série da Netflix...,TV-14,90.0
+Disney+,Filme,NOME FILME DISNEY,"Animação, Família",Sinopse curta do filme da Disney...,PG,88.0
+Disney+,Série,NOME SÉRIE DISNEY,"Aventura, Fantasia",Sinopse curta da série da Disney...,TV-PG,89.5
+Prime Video,Filme,NOME FILME PRIME,"Ação, Suspense",Sinopse curta do filme do Prime...,R,87.0
+Prime Video,Série,NOME SÉRIE PRIME,"Ficção científica, Distopia",Sinopse curta da série do Prime...,TV-14,91.0
