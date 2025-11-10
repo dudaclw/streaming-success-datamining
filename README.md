@@ -71,8 +71,6 @@ Exemplo de conteúdo de `requirements.txt`:
 pandas
 ```
 
-(Caso tenha adicionado mais libs, inclua aqui.)
-
 ---
 
 ## 📂 Preparando os dados
