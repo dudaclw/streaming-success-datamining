@@ -1,0 +1,11 @@
+# Core libraries
+pandas==2.2.3
+
+# Document generation
+python-docx==1.1.2
+
+# (Optional) Visualization of data
+matplotlib==3.9.2
+
+# (Optional) Unit testing
+pytest==8.3.3
